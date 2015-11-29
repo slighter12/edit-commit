@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "eV8Waj-p3ps",
+    "cut": [
+        {
+            "with": {
+                "id": "eV8Waj-p3ps",
+                "begin": 0,
+                "duration": 50,
+                "end": 50
+            },
+            "begin": 0,
+            "duration": 10,
+            "end": 10
+        }
+    ],
+    "clip": [
+        {
+            "id": "eV8Waj-p3ps",
+            "begin": 0,
+            "duration": 50,
+            "end": 50
+        },
+        {
+            "begin": 10,
+            "duration": 232,
+            "end": 242,
+            "id": "eV8Waj-p3ps"
+        }
+    ]
+}
