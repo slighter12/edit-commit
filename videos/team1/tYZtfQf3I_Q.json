@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "Hjv7qnc5-Jw",
+    "cut": [
+        {
+            "with": {
+                "id": "Hjv7qnc5-Jw",
+                "begin": 0,
+                "duration": 5,
+                "end": 5
+            },
+            "begin": 0,
+            "duration": 20,
+            "end": 20
+        }
+    ],
+    "clip": [
+        {
+            "id": "Hjv7qnc5-Jw",
+            "begin": 0,
+            "duration": 5,
+            "end": 5
+        },
+        {
+            "begin": 20,
+            "duration": 222,
+            "end": 242,
+            "id": "Hjv7qnc5-Jw"
+        }
+    ]
+}
