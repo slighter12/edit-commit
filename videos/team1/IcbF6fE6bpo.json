@@ -1,0 +1,13 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "M1PZvFjAbrI",
+    "cut": [],
+    "clip": [
+        {
+            "begin": 0,
+            "duration": 242,
+            "end": 242,
+            "id": "M1PZvFjAbrI"
+        }
+    ]
+}
