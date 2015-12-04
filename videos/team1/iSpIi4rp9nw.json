@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "SOE6rZcCPjs",
+    "cut": [
+        {
+            "with": {
+                "id": "SOE6rZcCPjs",
+                "begin": 0,
+                "duration": 1,
+                "end": 1
+            },
+            "begin": 0,
+            "duration": 1,
+            "end": 1
+        }
+    ],
+    "clip": [
+        {
+            "id": "SOE6rZcCPjs",
+            "begin": 0,
+            "duration": 1,
+            "end": 1
+        },
+        {
+            "begin": 1,
+            "duration": 241,
+            "end": 242,
+            "id": "SOE6rZcCPjs"
+        }
+    ]
+}
