@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "-Glt26go4cY",
+    "cut": [
+        {
+            "with": {
+                "id": "-Glt26go4cY",
+                "begin": 0,
+                "duration": 1,
+                "end": 1
+            },
+            "begin": 0,
+            "duration": 1,
+            "end": 1
+        }
+    ],
+    "clip": [
+        {
+            "id": "-Glt26go4cY",
+            "begin": 0,
+            "duration": 1,
+            "end": 1
+        },
+        {
+            "begin": 1,
+            "duration": 241,
+            "end": 242,
+            "id": "-Glt26go4cY"
+        }
+    ]
+}
