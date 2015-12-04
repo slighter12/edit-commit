@@ -1,0 +1,54 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "fmf2EC-kNrc",
+    "cut": [
+        {
+            "with": {
+                "id": "fmf2EC-kNrc",
+                "begin": 1,
+                "duration": 2,
+                "end": 3
+            },
+            "begin": 0,
+            "duration": 1,
+            "end": 1
+        },
+        {
+            "with": {
+                "id": "fmf2EC-kNrc",
+                "begin": 13,
+                "duration": 5,
+                "end": 18
+            },
+            "begin": 6,
+            "duration": 1,
+            "end": 7
+        }
+    ],
+    "clip": [
+        {
+            "id": "fmf2EC-kNrc",
+            "begin": 1,
+            "duration": 2,
+            "end": 3
+        },
+        {
+            "begin": 1,
+            "duration": 5,
+            "end": 6,
+            "id": "fmf2EC-kNrc"
+        },
+        {
+            "id": "fmf2EC-kNrc",
+            "begin": 13,
+            "duration": 5,
+            "end": 18
+        },
+        {
+            "begin": 7,
+            "duration": 235,
+            "end": 242,
+            "id": "fmf2EC-kNrc"
+        }
+    ]
+}
