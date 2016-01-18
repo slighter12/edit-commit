@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 22.105999999999998,
+    "baseVideoId": "pJuP79C_79U",
+    "cut": [
+        {
+            "with": {
+                "id": "pJuP79C_79U",
+                "begin": 0,
+                "duration": 0,
+                "end": 0
+            },
+            "begin": 0,
+            "duration": 5,
+            "end": 5
+        }
+    ],
+    "clip": [
+        {
+            "id": "pJuP79C_79U",
+            "begin": 0,
+            "duration": 0,
+            "end": 0
+        },
+        {
+            "begin": 5,
+            "duration": 17.105999999999998,
+            "end": 22.105999999999998,
+            "id": "pJuP79C_79U"
+        }
+    ]
+}
