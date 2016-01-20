@@ -1,0 +1,100 @@
+{
+    "baseVideoDuration": 40.101,
+    "baseVideoId": "fl8YxB5SsPQ",
+    "cut": [
+        {
+            "with": {
+                "id": "ArveZt8mE6o",
+                "begin": 0,
+                "duration": 4,
+                "end": 4
+            },
+            "begin": 0,
+            "duration": 4,
+            "end": 4
+        },
+        {
+            "with": {
+                "id": "ArveZt8mE6o",
+                "begin": 13,
+                "duration": 6,
+                "end": 19
+            },
+            "begin": 6,
+            "duration": 2,
+            "end": 8
+        },
+        {
+            "with": {
+                "id": "ArveZt8mE6o",
+                "begin": 13,
+                "duration": 6,
+                "end": 19
+            },
+            "begin": 15,
+            "duration": 5,
+            "end": 20
+        },
+        {
+            "with": {
+                "id": "ArveZt8mE6o",
+                "begin": 13,
+                "duration": 6,
+                "end": 19
+            },
+            "begin": 13,
+            "duration": 1,
+            "end": 14
+        }
+    ],
+    "clip": [
+        {
+            "id": "ArveZt8mE6o",
+            "begin": 0,
+            "duration": 4,
+            "end": 4
+        },
+        {
+            "begin": 4,
+            "duration": 2,
+            "end": 6,
+            "id": "fl8YxB5SsPQ"
+        },
+        {
+            "id": "ArveZt8mE6o",
+            "begin": 13,
+            "duration": 6,
+            "end": 19
+        },
+        {
+            "begin": 8,
+            "duration": 5,
+            "end": 13,
+            "id": "fl8YxB5SsPQ"
+        },
+        {
+            "id": "ArveZt8mE6o",
+            "begin": 13,
+            "duration": 6,
+            "end": 19
+        },
+        {
+            "begin": 14,
+            "duration": 1,
+            "end": 15,
+            "id": "fl8YxB5SsPQ"
+        },
+        {
+            "id": "ArveZt8mE6o",
+            "begin": 13,
+            "duration": 6,
+            "end": 19
+        },
+        {
+            "begin": 20,
+            "duration": 20.101,
+            "end": 40.101,
+            "id": "fl8YxB5SsPQ"
+        }
+    ]
+}
