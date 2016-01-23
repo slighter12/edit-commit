@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 15.882,
+    "baseVideoId": "pkC2PaWvvlk",
+    "cut": [
+        {
+            "with": {
+                "id": "pkC2PaWvvlk",
+                "begin": 0,
+                "duration": 3,
+                "end": 3
+            },
+            "begin": 0,
+            "duration": 2,
+            "end": 2
+        }
+    ],
+    "clip": [
+        {
+            "id": "pkC2PaWvvlk",
+            "begin": 0,
+            "duration": 3,
+            "end": 3
+        },
+        {
+            "begin": 2,
+            "duration": 13.882,
+            "end": 15.882,
+            "id": "pkC2PaWvvlk"
+        }
+    ]
+}
