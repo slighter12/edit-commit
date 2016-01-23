@@ -1,0 +1,37 @@
+{
+    "baseVideoDuration": 14.117999999999999,
+    "baseVideoId": "GGif8rr85To",
+    "cut": [
+        {
+            "with": {
+                "id": "GGif8rr85To",
+                "begin": 0,
+                "duration": 2,
+                "end": 2
+            },
+            "begin": 12,
+            "duration": 2,
+            "end": 14
+        }
+    ],
+    "clip": [
+        {
+            "begin": 0,
+            "duration": 12,
+            "end": 12,
+            "id": "GGif8rr85To"
+        },
+        {
+            "id": "GGif8rr85To",
+            "begin": 0,
+            "duration": 2,
+            "end": 2
+        },
+        {
+            "begin": 14,
+            "duration": 0.11799999999999855,
+            "end": 14.117999999999999,
+            "id": "GGif8rr85To"
+        }
+    ]
+}
