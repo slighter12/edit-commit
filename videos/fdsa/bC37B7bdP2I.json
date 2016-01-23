@@ -1,0 +1,37 @@
+{
+    "baseVideoDuration": 12.236999999999998,
+    "baseVideoId": "qxTkPLSM4-Q",
+    "cut": [
+        {
+            "with": {
+                "id": "qxTkPLSM4-Q",
+                "begin": 0,
+                "duration": 1,
+                "end": 1
+            },
+            "begin": 11,
+            "duration": 1,
+            "end": 12
+        }
+    ],
+    "clip": [
+        {
+            "begin": 0,
+            "duration": 11,
+            "end": 11,
+            "id": "qxTkPLSM4-Q"
+        },
+        {
+            "id": "qxTkPLSM4-Q",
+            "begin": 0,
+            "duration": 1,
+            "end": 1
+        },
+        {
+            "begin": 12,
+            "duration": 0.23699999999999832,
+            "end": 12.236999999999998,
+            "id": "qxTkPLSM4-Q"
+        }
+    ]
+}
