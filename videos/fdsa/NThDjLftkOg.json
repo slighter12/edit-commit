@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 14,
+    "baseVideoId": "LLSruHHS1RI",
+    "cut": [
+        {
+            "with": {
+                "id": "LLSruHHS1RI",
+                "begin": 0,
+                "duration": 3,
+                "end": 3
+            },
+            "begin": 0,
+            "duration": 2,
+            "end": 2
+        }
+    ],
+    "clip": [
+        {
+            "id": "LLSruHHS1RI",
+            "begin": 0,
+            "duration": 3,
+            "end": 3
+        },
+        {
+            "begin": 2,
+            "duration": 12,
+            "end": 14,
+            "id": "LLSruHHS1RI"
+        }
+    ]
+}
