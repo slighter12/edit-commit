@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 14.233999999999998,
+    "baseVideoId": "P5VU9cLglw4",
+    "cut": [
+        {
+            "with": {
+                "id": "P5VU9cLglw4",
+                "begin": 0,
+                "duration": 3.8,
+                "end": 3.8
+            },
+            "begin": 0,
+            "duration": 3,
+            "end": 3
+        }
+    ],
+    "clip": [
+        {
+            "id": "P5VU9cLglw4",
+            "begin": 0,
+            "duration": 3.8,
+            "end": 3.8
+        },
+        {
+            "begin": 3,
+            "duration": 11.233999999999998,
+            "end": 14.233999999999998,
+            "id": "P5VU9cLglw4"
+        }
+    ]
+}
