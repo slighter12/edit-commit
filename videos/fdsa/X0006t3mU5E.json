@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 15.046529,
+    "baseVideoId": "pR3rTT6LGEc",
+    "cut": [
+        {
+            "with": {
+                "id": "pR3rTT6LGEc",
+                "begin": 0,
+                "duration": 0,
+                "end": 0
+            },
+            "begin": 0,
+            "duration": 3,
+            "end": 3
+        }
+    ],
+    "clip": [
+        {
+            "id": "pR3rTT6LGEc",
+            "begin": 0,
+            "duration": 0,
+            "end": 0
+        },
+        {
+            "begin": 3,
+            "duration": 12.046529,
+            "end": 15.046529,
+            "id": "pR3rTT6LGEc"
+        }
+    ]
+}
